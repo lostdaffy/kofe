@@ -1,1 +1,1 @@
-https://lostdaffy.github.io/kofe/
+https://lostdaffy.github.io/kofe_ui/
